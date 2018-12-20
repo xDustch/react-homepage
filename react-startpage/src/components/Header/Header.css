@@ -1,0 +1,7 @@
+.Header{
+    background-color: #2b2b2b;
+    color: #fbfbfb;
+    height: 50px;
+    width: 100%;
+    grid-row: 1;
+}

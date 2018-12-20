@@ -6,7 +6,7 @@
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
 }
-
+/*
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -17,7 +17,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+*/
+.App-header{
+  background: url(https://i.stack.imgur.com/7YKUD.jpg);
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
 .App-link {
   color: #61dafb;
 }
