@@ -1,0 +1,8 @@
+.Weather{
+    height: fit-content;
+}
+
+.weather-icon{
+    height: 100%;
+    float: left;
+}
